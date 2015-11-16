@@ -1258,7 +1258,7 @@ F 3 "" H 8900 10400 60  0000 C CNN
 	1    8900 10400
 	0    -1   -1   0   
 $EndComp
-Text Label 4400 7100 2    60   ~ 0
+Text Label 4400 7300 2    60   ~ 0
 ACC_INT2
 Text Notes 9200 9700 0    60   ~ 0
 AKCELELOMETR
@@ -1854,7 +1854,7 @@ Text Label 4400 7200 2    60   ~ 0
 START
 Text Notes 6900 4350 0    60   ~ 0
 START MODULE\n
-Text Label 4400 7300 2    60   ~ 0
+Text Label 4400 7100 2    60   ~ 0
 KILL
 Text Label 4400 5600 2    60   ~ 0
 ACC_DRDY
