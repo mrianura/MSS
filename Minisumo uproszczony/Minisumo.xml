@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:/Users/Mrianura/Desktop/Minisumo uproszczony/Minisumo.sch</source>
-    <date>2015-11-15 18:23:46</date>
+    <date>2015-11-15 18:42:16</date>
     <tool>Eeschema 4.0.0-rc1-stable</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -35,14 +35,14 @@
     </comp>
     <comp ref="C12">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56312FFA</tstamp>
     </comp>
     <comp ref="C2">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5631305B</tstamp>
@@ -63,14 +63,14 @@
     </comp>
     <comp ref="C11">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56313D6E</tstamp>
     </comp>
     <comp ref="C1">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56313D74</tstamp>
@@ -91,14 +91,14 @@
     </comp>
     <comp ref="C4">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56315C44</tstamp>
     </comp>
     <comp ref="C5">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563177F4</tstamp>
@@ -112,14 +112,14 @@
     </comp>
     <comp ref="C14">
       <value>22pF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5631A29F</tstamp>
     </comp>
     <comp ref="C15">
       <value>22pF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5631A47A</tstamp>
@@ -147,7 +147,7 @@
     </comp>
     <comp ref="C31">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56323EF4</tstamp>
@@ -161,7 +161,7 @@
     </comp>
     <comp ref="C35">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5632497E</tstamp>
@@ -175,14 +175,14 @@
     </comp>
     <comp ref="P5">
       <value>silnik1</value>
-      <footprint>Pin_Headers:Pin_Header_Angled_1x02</footprint>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02</footprint>
       <libsource lib="conn" part="CONN_01X02"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56325392</tstamp>
     </comp>
     <comp ref="P4">
       <value>silnik2</value>
-      <footprint>Pin_Headers:Pin_Header_Angled_1x02</footprint>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02</footprint>
       <libsource lib="conn" part="CONN_01X02"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56325D70</tstamp>
@@ -280,7 +280,7 @@
     </comp>
     <comp ref="C28">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5632E664</tstamp>
@@ -294,7 +294,7 @@
     </comp>
     <comp ref="C34">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5632E676</tstamp>
@@ -308,14 +308,14 @@
     </comp>
     <comp ref="U5">
       <value>SHARP_10-80</value>
-      <footprint>Socket_Strips:Socket_Strip_Angled_1x03</footprint>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
       <libsource lib="warsztaty" part="SHARP_10-80"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56348331</tstamp>
     </comp>
     <comp ref="U4">
       <value>SHARP_10-80</value>
-      <footprint>Socket_Strips:Socket_Strip_Angled_1x03</footprint>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
       <libsource lib="warsztaty" part="SHARP_10-80"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56348BA4</tstamp>
@@ -336,7 +336,7 @@
     </comp>
     <comp ref="C24">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5633EDE5</tstamp>
@@ -350,7 +350,7 @@
     </comp>
     <comp ref="C25">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5633FF2D</tstamp>
@@ -371,7 +371,7 @@
     </comp>
     <comp ref="C41">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5634230A</tstamp>
@@ -385,7 +385,7 @@
     </comp>
     <comp ref="C42">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5634232D</tstamp>
@@ -413,7 +413,7 @@
     </comp>
     <comp ref="C20">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563A94C5</tstamp>
@@ -427,7 +427,7 @@
     </comp>
     <comp ref="P1">
       <value>bateria</value>
-      <footprint>Pin_Headers:Pin_Header_Angled_1x02</footprint>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02</footprint>
       <libsource lib="conn" part="CONN_01X02"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563CA575</tstamp>
@@ -448,14 +448,14 @@
     </comp>
     <comp ref="C3">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563155FB</tstamp>
     </comp>
     <comp ref="C8">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56392F80</tstamp>
@@ -504,7 +504,7 @@
     </comp>
     <comp ref="P2">
       <value>PROGRAMATOR</value>
-      <footprint>Pin_Headers:Pin_Header_Angled_1x06</footprint>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x06</footprint>
       <libsource lib="conn" part="CONN_01X06"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5638C94A</tstamp>
@@ -567,70 +567,70 @@
     </comp>
     <comp ref="C30">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563EA938</tstamp>
     </comp>
     <comp ref="C32">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563EADB4</tstamp>
     </comp>
     <comp ref="C38">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563ED56A</tstamp>
     </comp>
     <comp ref="C44">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563ED69D</tstamp>
     </comp>
     <comp ref="C29">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563F25C0</tstamp>
     </comp>
     <comp ref="C33">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563F26ED</tstamp>
     </comp>
     <comp ref="C37">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563F5B7E</tstamp>
     </comp>
     <comp ref="C39">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>563F5CC3</tstamp>
     </comp>
     <comp ref="C18">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56400B1E</tstamp>
     </comp>
     <comp ref="C19">
       <value>100nF</value>
-      <footprint>Capacitors_SMD:C_0805</footprint>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56400CAB</tstamp>
@@ -644,12 +644,14 @@
     </comp>
     <comp ref="R1">
       <value>10K</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
       <libsource lib="device" part="R"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5647B883</tstamp>
     </comp>
     <comp ref="R2">
       <value>10K</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
       <libsource lib="device" part="R"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5647BB7F</tstamp>
